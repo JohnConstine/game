@@ -1,0 +1,33 @@
+{
+	"native": {
+		"path_ignore": []
+	},
+	"engineVersion": "5.2.13",
+	"compilerVersion": "5.2.13",
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"template": {},
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "eui"
+		},
+		{
+			"name": "tween"
+		},
+		{
+			"name": "res"
+		},
+		{
+			"name": "promise"
+		}
+	]
+}

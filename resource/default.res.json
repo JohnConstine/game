@@ -1,0 +1,85 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,leaf_left_png,leaf_right_png,spritestairs_png,robotJump_json,robotJump_png,sha_jpg,monkey_json,monkey_png,footballer_json,footballer_png,dinosaur_json,dinosaur_png,cat_json,cat_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "leaf_left_png",
+			"type": "image",
+			"url": "assets/leaf_left.png"
+		},
+		{
+			"name": "leaf_right_png",
+			"type": "image",
+			"url": "assets/leaf_right.png"
+		},
+		{
+			"name": "spritestairs_png",
+			"type": "image",
+			"url": "assets/spritestairs.png"
+		},
+		{
+			"name": "robotJump_json",
+			"type": "json",
+			"url": "assets/robotJump.json"
+		},
+		{
+			"name": "robotJump_png",
+			"type": "image",
+			"url": "assets/robotJump.png"
+		},
+		{
+			"name": "sha_jpg",
+			"type": "image",
+			"url": "assets/sha.jpg"
+		},
+		{
+			"name": "monkey_json",
+			"type": "json",
+			"url": "assets/monkey.json"
+		},
+		{
+			"name": "monkey_png",
+			"type": "image",
+			"url": "assets/monkey.png"
+		},
+		{
+			"name": "footballer_json",
+			"type": "json",
+			"url": "assets/footballer.json"
+		},
+		{
+			"name": "footballer_png",
+			"type": "image",
+			"url": "assets/footballer.png"
+		},
+		{
+			"name": "dinosaur_json",
+			"type": "json",
+			"url": "assets/dinosaur.json"
+		},
+		{
+			"name": "dinosaur_png",
+			"type": "image",
+			"url": "assets/dinosaur.png"
+		},
+		{
+			"name": "cat_json",
+			"type": "json",
+			"url": "assets/cat.json"
+		},
+		{
+			"name": "cat_png",
+			"type": "image",
+			"url": "assets/cat.png"
+		}
+	]
+}
